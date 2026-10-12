@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Boundary Lab</title><desc id="desc">Treat documents as data, not authority. CASE → SOLVER → CONTRACT</desc>
+<rect width="1200" height="340" rx="20" fill="#161c27"/>
+<path d="M870 50h240v240H870z M900 80h180v180H900z" fill="none" stroke="#75dcc6" stroke-width="2" opacity=".4"/>
+<path d="M930 110h120v120H930z M990 110v120" fill="none" stroke="#75dcc6" stroke-width="6"/><path d="M907 170h46m74 0h46" stroke="#75dcc6" stroke-width="6"/><circle cx="990" cy="170" r="10" fill="#75dcc6"/>
+<text x="60" y="72" fill="#75dcc6" font-family="sans-serif" font-size="16" letter-spacing="4">OPEN SOURCE / EXPERIMENTAL</text>
+<text x="60" y="151" fill="white" font-family="sans-serif" font-size="58" font-weight="bold">Boundary Lab</text>
+<text x="60" y="204" fill="#c8d1df" font-family="sans-serif" font-size="25">Treat documents as data, not authority.</text>
+<text x="60" y="278" fill="#75dcc6" font-family="monospace" font-size="19">CASE → SOLVER → CONTRACT</text></svg>
